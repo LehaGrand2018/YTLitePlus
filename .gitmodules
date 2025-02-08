@@ -1,6 +1,6 @@
 [submodule "Tweaks/Alderis"]
 	path = Tweaks/Alderis
-	url = https://github.com/hbang/Alderis.git
+	url = https://github.com/und3fined/Alderis.git
 [submodule "Tweaks/PSHeader"]
 	path = Tweaks/PSHeader
 	url = https://github.com/PoomSmart/PSHeader.git
